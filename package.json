@@ -35,7 +35,7 @@
 		"directory-tree": "2.2.3",
 		"document-ready": "2.0.2",
 		"fs-extra": "8.0.1",
-		"node-sass": "4.12.0",
+		"node-sass": "4.13.1",
 		"ol": "5.3.3",
 		"parcel-bundler": "1.12.3",
 		"get-sheet-done": "0.1.5",
