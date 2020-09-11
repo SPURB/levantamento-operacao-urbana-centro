@@ -39,7 +39,7 @@
 		"ol": "5.3.3",
 		"parcel-bundler": "1.12.3",
 		"get-sheet-done": "0.1.5",
-		"node-fetch": "2.6.0"
+		"node-fetch": "2.6.1"
 	},
 	"dependencies": {
 		"axios": "0.18.1"
